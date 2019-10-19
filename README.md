@@ -1,0 +1,1 @@
+# gridsome-routing-issue
